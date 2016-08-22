@@ -1,14 +1,14 @@
-layout_spectrum: 0.6324835289269686
-typography_spectrum: 0.6638184350449592
+layout_spectrum: 0.6247432355303317
+typography_spectrum: 0.2777618358377367
 color:
   brandStrength: 0.10782814980484545
   lightness: 0.045852335169911385
   saturation: 0.47803664952516556
   rhythmicContrast: 0.8456205397378653
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: MarineEvoEco
