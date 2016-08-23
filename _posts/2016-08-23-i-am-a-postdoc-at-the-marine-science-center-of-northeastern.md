@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-23T19:23:20.289Z'
+datePublished: '2016-08-23T19:23:30.852Z'
 sourcePath: >-
   _posts/2016-08-23-i-am-a-postdoc-at-the-marine-science-center-of-northeastern.md
 author: []
 via: {}
-dateModified: '2016-08-23T19:23:19.895Z'
+dateModified: '2016-08-23T19:23:30.251Z'
 title: About Me
 publisher: {}
 description: >-
@@ -14,11 +14,10 @@ description: >-
   sequencing and genomics to understand how human populations affect
   connectivity and evolution in the ocean. I study a variety of organisms, from
   fish to sea stars.
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: about-me/index.html
+_type: Blurb
 
 ---
 # About Me
