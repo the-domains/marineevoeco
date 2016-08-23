@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-08-23T19:23:30.852Z'
+datePublished: '2016-08-23T19:31:28.953Z'
 sourcePath: >-
   _posts/2016-08-23-i-am-a-postdoc-at-the-marine-science-center-of-northeastern.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-23T19:23:30.251Z'
+dateModified: '2016-08-23T19:31:28.607Z'
 title: About Me
 publisher: {}
 description: >-
@@ -14,12 +15,13 @@ description: >-
   sequencing and genomics to understand how human populations affect
   connectivity and evolution in the ocean. I study a variety of organisms, from
   fish to sea stars.
-hasPage: true
 starred: false
 url: about-me/index.html
 _type: Blurb
 
 ---
+![With my parents at my PhD after defending my PhD at the University of Hawaii](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84994c71-f59e-421e-90fa-5dd10b761198.jpg)
+
 # About Me
 
 I am a postdoc at the Marine Science Center of Northeastern University, where I use molecular tools to understand the ecological and evolutionary processes of marine populations. Currently, my research focuses on using next-generation sequencing and genomics to understand how human populations affect connectivity and evolution in the ocean. I study a variety of organisms, from fish to sea stars.
