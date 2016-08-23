@@ -11,8 +11,11 @@ color:
     - '#4D4D4D'
     - '#333333'
 layout_spectrum: 0.8280581387225538
+author:
+  name: Jonathan Puritz
+  email: jpuritz@gmail.com
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fd64434-dee2-4732-ad01-231932cc9008.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dc3fe92-6703-4192-aa65-3df952c1fe26.png
 name: MarineEvoEco.com
 navigation:
   - name: About Me
