@@ -11,6 +11,8 @@ color:
     - '#4D4D4D'
     - '#333333'
 layout_spectrum: 0.8280581387225538
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fd64434-dee2-4732-ad01-231932cc9008.png
 name: MarineEvoEco.com
 navigation:
   - name: About Me
@@ -19,5 +21,7 @@ navigation:
   - name: CV
     id: 8113dc93-ead9-4557-913f-b7ecd6660e74
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/80b2ba7e-b26f-49da-be58-ce4b2a72a3ae.png
 title: 'Jonathan B. Puritz, PhD.'
 description: Marine Evolutionary Ecologist
