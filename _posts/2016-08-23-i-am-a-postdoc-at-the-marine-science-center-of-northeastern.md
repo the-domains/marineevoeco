@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-23T19:31:28.953Z'
+datePublished: '2016-08-23T19:40:22.489Z'
 sourcePath: >-
   _posts/2016-08-23-i-am-a-postdoc-at-the-marine-science-center-of-northeastern.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-23T19:31:28.607Z'
+dateModified: '2016-08-23T19:40:22.116Z'
 title: About Me
 publisher: {}
 description: >-
