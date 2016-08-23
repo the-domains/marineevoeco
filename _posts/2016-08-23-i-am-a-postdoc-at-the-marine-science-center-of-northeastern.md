@@ -1,12 +1,10 @@
 ---
-datePublished: '2016-08-23T19:40:22.489Z'
-sourcePath: >-
-  _posts/2016-08-23-i-am-a-postdoc-at-the-marine-science-center-of-northeastern.md
-hasPage: true
+datePublished: '2016-08-23T19:48:18.752Z'
 author: []
 via: {}
-dateModified: '2016-08-23T19:40:22.116Z'
+dateModified: '2016-08-23T19:48:18.480Z'
 title: About Me
+id: 08b0f8b7-b43c-428a-95b9-58f8844533ac
 publisher: {}
 description: >-
   I am a postdoc at the Marine Science Center of Northeastern University, where
@@ -16,8 +14,12 @@ description: >-
   connectivity and evolution in the ocean. I study a variety of organisms, from
   fish to sea stars.
 starred: false
-url: about-me/index.html
-_type: Blurb
+sourcePath: >-
+  _posts/2016-08-23-i-am-a-postdoc-at-the-marine-science-center-of-northeastern.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 ![With my parents at my PhD after defending my PhD at the University of Hawaii](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84994c71-f59e-421e-90fa-5dd10b761198.jpg)
